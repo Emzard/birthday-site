@@ -71,23 +71,23 @@ h2, h3, h4, p {
     background-size: cover;
 }
 
-#gift-img-happy:focus {
+#gift-img-happy {
     background-image: url("images/happy.gif");
 }
 
-#gift-img-hot:focus {
+#gift-img-hot {
     background-image: url("images/hot.gif");
 }
 
-#gift-img-cute:focus {
+#gift-img-cute {
     background-image: url("images/cute.gif");
 }
 
-#gift-img-badass:focus {
+#gift-img-badass {
     background-image: url("images/cool.gif");
 }
 
-#gift-img-cheers:focus {
+#gift-img-cheers {
     background-image: url("images/cheers.gif");
 }
 
